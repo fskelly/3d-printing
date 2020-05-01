@@ -1,6 +1,6 @@
 # 3D printing
 
-I am using this repo to track my research, designs and the things I print using issues. I will store my STL and GCode files in the repo for sharing and archive purposes and use the Wiki to capture useful information relating to my printing.
+I am using this repo to track my research, designs and the things I print using [issues](https://github.com/jcallaghan/3d-printing/issues). I will store my STL and GCode files in the [repo](https://github.com/jcallaghan/3d-printing) for sharing and archive purposes and use the [Wiki](https://github.com/jcallaghan/3d-printing/wiki) to capture useful information relating to my printing.
 
 ## Setup
 My setup is as follows:
