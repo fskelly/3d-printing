@@ -1,6 +1,6 @@
 # 3D printing
 
-I am using this repo to track my research, designs and the things I print.
+I am using this repo to track my research, designs and the things I print using issues. I will store my STL and GCode files in the repo for sharing and archive purposes and use the Wiki to capture useful information relating to my printing.
 
 ## Setup
 My setup is as follows:
