@@ -1,0 +1,1 @@
+Ring camera privacy cover.
