@@ -17,6 +17,8 @@ My setup is as follows:
 
 ## Todo
 * Cable management
+* Relocate OctoPrint screen and spindle to top
 * Enclosurer for Raspberry Pi and Sonoff
 * Printer enclosure
 * Integration with ESPHome switch for PSU management
+* Resolve noise when printer is off
